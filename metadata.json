@@ -1,0 +1,6 @@
+{
+  "name": "SavdoPilot",
+  "description": "AI-powered Omnichannel Sales Bot, Smart Inventory, Dynamic Pricing, and Demand Forecasting platform for retail shops in Uzbekistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
